@@ -1,1 +1,3 @@
-# awscli 
+# awscli
+
+Tiny awscli for Docker.
