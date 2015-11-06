@@ -7,4 +7,4 @@ RUN apk add --update py-pip bash jq && \
 ENV AWS_DEFAULT_OUTPUT text
 ENV AWS_DEFAULT_REGION us-west-2
 
-ENTRYPOINT aws
+CMD aws
